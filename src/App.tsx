@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Hero from "./sections/Hero";
@@ -44,6 +45,8 @@ function App() {
       <div className="relative z-10">
         <Footer />
       </div>
+
+      <Analytics />
     </div>
   );
 }
