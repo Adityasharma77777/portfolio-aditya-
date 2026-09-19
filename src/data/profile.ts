@@ -11,7 +11,7 @@ export const profile = {
     "Building secure, intelligent and reliable digital systems through cybersecurity, software development and security automation.",
   location: "Jaipur, Rajasthan, India", // TODO: replace with your preferred public location
   resumePath: "/resume.pdf", // TODO: place your resume.pdf inside the /public folder
-  email: "EMAIL@example.com", // TODO: replace with your real email
+  email: "sharmaaditya70227@gmail.com", // TODO: replace with your real email
   social: {
     github: "https://github.com/GITHUB_USERNAME", // TODO: replace
     linkedin: "https://linkedin.com/in/LINKEDIN_USERNAME", // TODO: replace
